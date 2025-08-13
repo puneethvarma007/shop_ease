@@ -1,0 +1,2 @@
+-- Sample Data file is disabled for production/demo cleanliness.
+-- Intentionally left empty. Add demo-only inserts here if required and run manually.

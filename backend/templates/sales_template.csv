@@ -1,0 +1,4 @@
+store_id,sale_date,total_amount,customer_count,items_sold
+STORE_UUID_HERE,2025-08-01,1250.50,8,15
+STORE_UUID_HERE,2025-08-02,980.75,6,12
+

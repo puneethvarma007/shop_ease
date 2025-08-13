@@ -1,0 +1,4 @@
+title,description,original_price,offer_price,discount_percentage,image_url,store_id,section_id,category_id,valid_from,valid_until,is_active
+"Diamond Earrings","14k gold with diamonds",299.99,199.99,33,https://example.com/img1.jpg,STORE_UUID_HERE,MAIN,CATEGORY_UUID_HERE,2025-08-01,2025-08-31,true
+"Kids Sneakers","Comfortable sneakers",69.99,49.99,29,https://example.com/img2.jpg,STORE_UUID_HERE,SECTION_UUID_OR_MAIN,CATEGORY_UUID_HERE,2025-08-01,2025-08-31,true
+
